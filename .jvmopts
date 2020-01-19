@@ -1,0 +1,7 @@
+-Xmx4g
+–Xms4g
+–Xmn1200m
+–Xss512k
+-XX:NewRatio=4
+-XX:SurvivorRatio=8
+-XX:MaxTenuringThreshold=15
